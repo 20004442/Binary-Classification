@@ -1,5 +1,4 @@
 # BINARY CLASSIFICATION
-# BINARY CLASSIFICATION
 ## AIM:
 
 To write a python program to perform binary classification.
